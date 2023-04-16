@@ -13,7 +13,7 @@ Você é livre para recusar a nossa solicitação de informações pessoais, ent
 
 O uso continuado de nosso site será considerado como aceitação de nossas práticas em torno de privacidade e informações pessoais. Se você tiver alguma dúvida sobre como lidamos com dados do usuário e informações pessoais, entre em contacto connosco.
 
-# Compromisso do Usuário
+## Compromisso do Usuário
 
 O usuário se compromete a fazer uso adequado dos conteúdos e da informação que o MeuCarfix oferece no site e com caráter enunciativo, mas não limitativo:
 
@@ -23,7 +23,7 @@ B) Não difundir propaganda ou conteúdo de natureza racista, xenofóbica, bet36
 
 C) Não causar danos aos sistemas físicos (hardwares) e lógicos (softwares) do MeuCarfix, de seus fornecedores ou terceiros, para introduzir ou disseminar vírus informáticos ou quaisquer outros sistemas de hardware ou software que sejam capazes de causar danos anteriormente mencionados.
 
-# Mais informações
+## Mais informações
 
 Esperemos que esteja esclarecido e, como mencionado anteriormente, se houver algo que você não tem certeza se precisa ou não, geralmente é mais seguro deixar os cookies ativados, caso interaja com um dos recursos que você usa em nosso site.
 
